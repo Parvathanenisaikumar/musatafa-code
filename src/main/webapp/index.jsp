@@ -54,7 +54,7 @@
     <div class="login-container">
         <h2>Login</h2>
         <form action="/login" method="post">
-            <label for="username">UserNAM</label>
+            <label for="username">UserNAMe</label>
             <input type="text" id="username" name="username" required>
 
             <label for="password">PASSBOOK</label>
