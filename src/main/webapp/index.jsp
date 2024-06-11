@@ -54,10 +54,10 @@
     <div class="login-container">
         <h2>Login</h2>
         <form action="/login" method="post">
-            <label for="username">Username</label>
+            <label for="username">UserNAM</label>
             <input type="text" id="username" name="username" required>
 
-            <label for="password">Password</label>
+            <label for="password">PASSBOOK</label>
             <input type="password" id="password" name="password" required>
 
             <input type="submit" value="Login">
