@@ -59,8 +59,7 @@
 
             <label for="password">PASSWORD</label>
             <input type="password" id="password" name="password" required>
-            <label for="security code">security code</label>
-            <input type="security code" id="security code" name="security code" required>
+            
 
 
             <input type="submit" value="Login">
